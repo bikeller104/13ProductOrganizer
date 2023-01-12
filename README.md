@@ -11,6 +11,7 @@ This project includes a database of products, tags and categories for item stora
 
 ## visuals
 
+[appShowcase.webm](https://user-images.githubusercontent.com/110364905/212162303-9598ef8d-a898-4499-80f1-fbea2b9b6257.webm)
 
 
 
